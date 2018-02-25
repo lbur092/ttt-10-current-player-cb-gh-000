@@ -5,5 +5,5 @@ def turn_count(board)
       counter += 1
     end #the if statement
   end #the iterator
-  counter
+  puts counter
 end #the function
